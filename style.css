@@ -1,0 +1,16 @@
+.splash-screen{
+  background-image:url("img/aidan-hancock-8RU4OuA6Yug-unsplash (1).png");
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:669px;
+}
+
+.gallery{
+  margin:0;
+  padding: 0;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
